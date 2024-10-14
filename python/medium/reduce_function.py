@@ -1,3 +1,1 @@
-"""
-reduce_function.py
-"""
+

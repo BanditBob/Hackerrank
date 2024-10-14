@@ -1,3 +1,1 @@
-"""
-company_logo.py
-"""
+

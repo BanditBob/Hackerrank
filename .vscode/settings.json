@@ -6,7 +6,8 @@
         },
         "editor.suggest.insertMode": "replace",
         "prettier.endOfLine": "lf",
-        "prettier.trailingComma": "all"
+        "prettier.trailingComma": "all",
+        "prettier.tabWidth": 4
     },
     "editor.autoClosingBrackets": "always",
     "editor.autoClosingComments": "languageDefined",
@@ -27,14 +28,7 @@
         "**/.DS_Store": true,
         "**/Thumbs.db": true
     },
-    "formatFiles.excludedFolders": [
-        "node_modules",
-        ".vscode",
-        ".git",
-        "dist",
-        ".chrome",
-        "env"
-    ],
+    "formatFiles.excludedFolders": ["node_modules", ".vscode", ".git", "dist", ".chrome", "env", "certs"],
     "hide-files.files": [],
     "[python]": {
         "diffEditor.ignoreTrimWhitespace": false,

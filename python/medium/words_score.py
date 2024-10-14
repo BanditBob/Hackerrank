@@ -1,3 +1,1 @@
-"""
-words_score.py
-"""
+
