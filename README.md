@@ -1,2 +1,2 @@
-# Hackerrank
-My Hackerrank Data
+# Hackerrank Practice
+Repo to house my hackerrank challenges and certifications.
