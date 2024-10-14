@@ -28,7 +28,19 @@
         "**/.DS_Store": true,
         "**/Thumbs.db": true
     },
-    "formatFiles.excludedFolders": ["node_modules", ".vscode", ".git", "dist", ".chrome", "env", "certs"],
+    "formatFiles.excludedFolders": [
+        "node_modules",
+        ".vscode",
+        ".git",
+        "dist",
+        ".chrome",
+        "env",
+        "css_basic",
+        "javascript_basic",
+        "node_basic",
+        "problem_solving_basic",
+        "python_basic"
+    ],
     "hide-files.files": [],
     "[python]": {
         "diffEditor.ignoreTrimWhitespace": false,
